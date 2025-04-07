@@ -46,7 +46,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/SmartContactManager.git
+git clone https://github.com/rajeevpatwa/SmartContactManager.git
 Configure MySQL
 Create a database named smart_contact_manager and update the DB credentials in application.properties.
 
